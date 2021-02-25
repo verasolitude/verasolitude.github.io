@@ -1,0 +1,2 @@
+# verasolitude.github.io
+blog
