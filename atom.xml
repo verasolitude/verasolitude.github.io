@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://verasolitude.github.io</id>
     <title>Solitude</title>
-    <updated>2021-02-25T17:31:47.846Z</updated>
+    <updated>2021-02-26T07:20:08.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://verasolitude.github.io"/>
     <link rel="self" href="https://verasolitude.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://verasolitude.github.io/images/avatar.png</logo>
     <icon>https://verasolitude.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Solitude</rights>
+    <entry>
+        <title type="html"><![CDATA[自闭中]]></title>
+        <id>https://verasolitude.github.io/post/zi-bi-zhong/</id>
+        <link href="https://verasolitude.github.io/post/zi-bi-zhong/">
+        </link>
+        <updated>2021-02-26T07:18:10.000Z</updated>
+        <content type="html"><![CDATA[<p>这个网站也老是弄不好，真的麻烦</p>
+<p>唉好苦啊</p>
+<p>感觉去了上海也还是好苦<br>
+唉<br>
+唉唉唉唉<br>
+唉</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初]]></title>
         <id>https://verasolitude.github.io/post/chu/</id>
